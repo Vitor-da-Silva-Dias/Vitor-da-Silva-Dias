@@ -13,7 +13,7 @@
 
 - <strong>Linguagem de programação favorita: </strong>Front end (HTML/CSS/Javascript);
 
-- <strong>O que estudo atualmente: </strong> No programa starter da Growdev estou estudando a parte de front end (HTML e CSS) e Git/Github.
+- <strong>O que estudo atualmente: </strong> No programa starter da Growdev encerrei o ciclo de front end e estou estudando back end (criação e consumo de API's).
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -28,7 +28,8 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flate&logo=postgresql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
 **DevOps**
